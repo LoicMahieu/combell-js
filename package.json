@@ -22,7 +22,7 @@
     "trailingComma": "es5"
   },
   "dependencies": {
-    "got": "^10.6.0"
+    "got": "^11.8.5"
   },
   "devDependencies": {
     "@types/jest": "^25.1.3",
